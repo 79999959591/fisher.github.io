@@ -1,0 +1,30 @@
+.navbar-brand{
+    color: rgb(136, 152, 182);
+}
+.nav-link{
+    color: rgb(136, 152, 182);
+}
+.navbar-nav .nav-link.active{
+    color: cornflowerblue;
+}
+.navbar-brand img{
+    width: 40px;
+    background-color: coral;
+}
+.navbar-toggler{
+    background-color: cornflowerblue;
+}
+.footer-text{
+    margin: auto auto;
+    color:black;
+    /* color: #09fbf7; */
+}
+footer{
+    background-color: chocolate;
+    border: 5px;
+}
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

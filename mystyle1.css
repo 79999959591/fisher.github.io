@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(0deg, #053c57 0%, #09fbf7 100%);
+}
+.navbar-brand{
+    color: cornflowerblue;
+}
+.nav-link{
+    color: rgb(136, 152, 182);
+}
+.navbar-nav .nav-link.active{
+    color: cornflowerblue;
+}
+.navbar-brand img{
+    width: 40px;
+    background-color: coral;
+}
+.navbar-toggler{
+    background-color: cornflowerblue;
+}
+.sidebar{
+    color: rgb(0, 0, 0)
+}
+.card{
+    background-color: #c4e7f5;
+}
+.card a{
+    text-decoration: none;
+}
+.footer-text{
+    margin: auto auto;
+    color:black;
+    /* color: #09fbf7; */
+}
+footer{
+    background-color: chocolate;
+    border: 5px;
+}
+.media-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

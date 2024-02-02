@@ -1,0 +1,32 @@
+.bgvideo {
+    /* height: 120vh; */
+    width: 100%;
+    position: relative;
+    object-fit: cover;
+    display: flex;
+
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* autoplay muted loop */
+}
+
+.bgvideo video {    
+    /* height: 70vh; */
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+
+    /* display: contents; */
+    /* z-index: 1; */
+}
+
+.video-text {
+    color: black;
+
+    /* z-index: 2; */
+}
+.brightness{
+    background-color: rgba(0, 0, 0, 0.473);
+}
